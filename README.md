@@ -163,7 +163,7 @@
 ## 💫 Stats
 [![Discord](https://lanyard.cnrad.dev/api/776836808259534878?bg=3e3b5f)](http://discord.com/users/776836808259534878)
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000403.079be23eaf4842c2befdc5c12232bfdd.1442)](https://music-profile.rayriffy.com)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000329.2108d92c3fd44725ba8263ecf150b5cd.1450)](https://music-profile.rayriffy.com)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact)](https://github.com/Jittiphatz)
 
