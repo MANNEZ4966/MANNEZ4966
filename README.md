@@ -165,6 +165,3 @@
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000329.2108d92c3fd44725ba8263ecf150b5cd.1450)](https://music-profile.rayriffy.com)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact)](https://github.com/Jittiphatz)
-
-[![top-lang](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
